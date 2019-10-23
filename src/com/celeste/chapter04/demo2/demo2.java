@@ -1,4 +1,4 @@
-package com.celeste.chapter4.demo2;
+package com.celeste.chapter04.demo2;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

@@ -1,4 +1,4 @@
-package com.celeste.chapter4.demo1;
+package com.celeste.chapter04.demo1;
 
 // 共享对象
 class Res {
