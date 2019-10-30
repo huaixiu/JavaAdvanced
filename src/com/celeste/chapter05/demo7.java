@@ -67,6 +67,7 @@ class ConsumerThread implements Runnable {
         }
     }
 
+
 }
 
 public class demo7 {
